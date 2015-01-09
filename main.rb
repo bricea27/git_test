@@ -1,4 +1,4 @@
 def ciao
   p "hello"
-  p "ciao"
+  p "goodbye"
 end
